@@ -1,4 +1,4 @@
-# Practicing With Git
+# Practicing With Git 
 
 This repository contains a variety of branches each with differing commit histories.  Complete the following exercises and publish your solution by pushing to your personal github account.
 
@@ -59,5 +59,5 @@ Once you've completed the above exercises push the repo to your personal github 
 
 * Create an empty repository in your personal space (https://github.com/new) named "git-practice"
 
-
+1
 
